@@ -1,0 +1,11 @@
+.social-media .icon1{
+    height: 80px;
+    width: 80px;
+    color: #000000;
+    border-radius: 50%;
+    border: 10px solid #000000;
+    padding: 10px;
+}
+.social-media .active-icon1{
+    color:rgb(0, 0, 0);
+}

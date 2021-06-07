@@ -1,0 +1,8 @@
+.loginPage{
+    margin-top: 50px;
+    background-color: rgb(200, 229, 248);
+    border: 2px solid rgb(20, 20, 20);
+    border-radius: 10px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
