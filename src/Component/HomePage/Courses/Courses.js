@@ -28,14 +28,14 @@ const Courses = () => {
                 title="c1"
               />
               <CardContent>
-                <Typography gutterBottom variant="h4" component="h4">
+                <Typography gutterBottom variant="h4" >
                   Science Course
                 </Typography>
-                <Typography variant="body1" variant="h6" component="h6">
+                <Typography variant="body2" variant="h6" >
                   Enjoy a wide range of information and fun science facts that
                   are sure to surprise and amaze you.
                 </Typography>
-                <Typography variant="body2" variant="h5" component="h5">
+                <Typography variant="body2" variant="h5" >
                   Course duration- 1 month
                 </Typography>
               </CardContent>
@@ -67,15 +67,15 @@ const Courses = () => {
                 title="c2"
               />
               <CardContent>
-                <Typography gutterBottom variant="h4" component="h4">
+                <Typography gutterBottom variant="h4" >
                   Mathematics Course
                 </Typography>
-                <Typography variant="body3" variant="h6" component="h6">
+                <Typography variant="body2" variant="h6" >
                   Get introductions to algebra, geometry, trigonometry,
                   pre-calculus and calculus or get help with current math
                   coursework
                 </Typography>
-                <Typography variant="body4" variant="h5" component="h5">
+                <Typography variant="body2" variant="h5" >
                   Course duration- 3 month
                 </Typography>
               </CardContent>
@@ -109,14 +109,14 @@ const Courses = () => {
                 title="c3"
               />
               <CardContent>
-                <Typography gutterBottom variant="h4" component="h4">
+                <Typography gutterBottom variant="h4" >
                   Art and Music Course
                 </Typography>
-                <Typography variant="body5" variant="h6" component="h6">
+                <Typography variant="body2" variant="h6" >
                   Enjoy a wide range of information and fun art and music that
                   are sure to surprise and amaze you.
                 </Typography>
-                <Typography variant="body6" variant="h5" component="h5">
+                <Typography variant="body2" variant="h5" >
                   Course duration- 6 month
                 </Typography>
               </CardContent>
@@ -148,15 +148,15 @@ const Courses = () => {
                 title="c4"
               />
               <CardContent>
-                <Typography gutterBottom variant="h4" component="h4">
+                <Typography gutterBottom variant="h4" >
                   Physical Education Course
                 </Typography>
-                <Typography variant="body7" variant="h6" component="h6">
+                <Typography variant="body2" variant="h6" >
                   Students will learn several creative new ideas and games.
                   These activities could be used to help keep groups physically
                   active.
                 </Typography>
-                <Typography variant="body8" variant="h5" component="h5">
+                <Typography variant="body2" variant="h5" >
                   Course duration- 3 month
                 </Typography>
               </CardContent>
