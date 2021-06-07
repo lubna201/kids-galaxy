@@ -11,7 +11,7 @@ import login from '../../images/login.jpg';
 
 
 const Login = () => {
-    const [user, setUser] = useState({
+    const [, setUser] = useState({
         isSignedIn: false,
         name: '',
         email: '',
