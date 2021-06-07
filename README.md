@@ -16,4 +16,4 @@ Educational Website
 
 ## Technology: HTML, CSS, React Js, Material UI, Firebase, Bootstrap, EmailJs. 
 
-[Live site link](https://sl-event.web.app)
+[Live site link](https://60be814d08a38012652a9059--dreamy-edison-44be63.netlify.app/)
